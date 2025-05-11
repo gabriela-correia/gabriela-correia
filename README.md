@@ -5,22 +5,69 @@
 Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí o ensino médio e atualmente estou cursando o técnico em Desenvolvimento de Sistemas pelo SENAC. Sou iniciante na área de tecnologia, mas já descobri que gosto muito de criar sites e estou sempre em busca de aprender mais sobre programação. Aqui no meu GitHub, compartilho meus primeiros projetos, estudos e o meu desenvolvimento como futuro profissional da área.
 
 
-  
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+   <h1 align="center">Olá! Eu sou a Gabriela Correia 👋</h1>
+
+<p align="center">
+  <strong>Estudante de Ciência da Computação | Apaixonada por tecnologia e desenvolvimento front-end 💻</strong>
 </p>
+
+<p align="center">
+  <a href="https://github.com/gabrielacorreia?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/gabrielacorreia?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/gabrielacorreia?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/gabrielacorreia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando Ciência da Computação  
+- 🌱 Atualmente aprendendo JavaScript, Git e Banco de Dados  
+- 💼 Em busca de oportunidades para crescer como desenvolvedora  
+- 🎯 Foco em desenvolvimento de interfaces acessíveis e funcionais  
+- 🤝 Gosto de trabalhar em equipe e resolver problemas com criatividade
+
+---
+
+### 🛠️ Tecnologias que conheço
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="Banco de Dados">
+</p>
+
+---
+
+### 📫 Contato
+
+- ✉️ Email: gabriela@email.com  
+- 💼 LinkedIn: [linkedin.com/in/gabrielacorreia](https://linkedin.com/in/gabrielacorreia)  
+- 🌐 Portfólio: Em breve...
+
+---
+
+### ✨ Frase que me inspira
+
+> "A tecnologia move o mundo. E eu quero fazer parte dessa mudança." 🚀
+
+---
+
+Sinta-se à vontade para visitar meus repositórios e conhecer meus projetos! 😄
 
 ---
 
