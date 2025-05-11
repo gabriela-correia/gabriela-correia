@@ -1,9 +1,9 @@
 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gabriela Correia
 
-**`Desenvolvedora FullStack`**
+**`Iniciando minha jornada como desenvolvedora Front-end`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí o ensino médio e atualmente estou cursando o técnico em Desenvolvimento de Sistemas pelo SENAC. Sou iniciante na área de tecnologia, mas já descobri que gosto muito de criar sites e estou sempre em busca de aprender mais sobre programação. Aqui no meu GitHub, compartilho meus primeiros projetos, estudos e o meu desenvolvimento como futuro profissional da área.
 
 ---
 
