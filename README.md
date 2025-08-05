@@ -45,12 +45,7 @@ Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí 
     width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
   />
-  <img 
-    alt="GitHub" 
-    title="GitHub" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-  />
+ 
   <img 
     alt="Figma" 
     title="Figma" 
