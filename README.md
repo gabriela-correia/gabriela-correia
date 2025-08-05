@@ -24,15 +24,17 @@ Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí 
 
 ### 📊 Tecnologias mais usadas nos meus projetos
 
-<p align="left">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-correia&layout=compact&theme=radical&title_color=ff79c6&text_color=f8f8f2&bg_color=1e1e1e&border_radius=10" 
-    alt="Gráfico das linguagens mais usadas" 
-    width="400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriela-correia&theme=tokyonight" 
+    alt="Gráfico de linguagens por repositórios" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriela-correia&theme=tokyonight" 
+    alt="Gráfico de linguagens por commits" 
   />
 </p>
 
 ---
 
-<!-- Quer adicionar também seus projetos, certificados ou redes sociais? Posso montar essas seções também! -->
-
+<!-- Posso adicionar suas redes sociais, projetos em destaque ou certificados se quiser! -->
