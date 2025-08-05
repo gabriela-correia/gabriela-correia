@@ -22,13 +22,9 @@ Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí 
 
 ---
 
-### 📊 Tecnologias mais usadas nos meus projetos
+### 📊 Linguagens mais usadas nos meus projetos
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriela-correia&theme=tokyonight" 
-    alt="Gráfico de linguagens por repositórios" 
-  />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriela-correia&theme=tokyonight" 
     alt="Gráfico de linguagens por commits" 
@@ -37,4 +33,19 @@ Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí 
 
 ---
 
-<!-- Posso adicionar suas redes sociais, projetos em destaque ou certificados se quiser! -->
+### 🛠️ Tecnologias mais utilizadas (visual estilizado)
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code<br/><strong>25%</strong></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Figma<br/><strong>20%</strong></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git<br/><strong>20%</strong></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub<br/><strong>15%</strong></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL<br/><strong>10%</strong></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Design<br/><strong>10%</strong></td>
+  </tr>
+</table>
+
+---
+
+<!-- Se quiser, posso adicionar uma seção de projetos em destaque ou certificados logo abaixo :) -->
