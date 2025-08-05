@@ -26,12 +26,13 @@ Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí 
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-correia&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" 
-    alt="Gráfico das linguagens mais usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-correia&layout=compact&theme=radical&title_color=ff79c6&text_color=f8f8f2&bg_color=1e1e1e&border_radius=10" 
+    alt="Gráfico das linguagens mais usadas" 
+    width="400"
   />
 </p>
 
 ---
 
-<!-- Se quiser adicionar mais seções, como projetos, redes sociais ou contato, posso ajudar também! -->
+<!-- Quer adicionar também seus projetos, certificados ou redes sociais? Posso montar essas seções também! -->
 
