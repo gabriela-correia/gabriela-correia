@@ -11,16 +11,15 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f78fb3?style=for-the-badge&logo=linkedin&logoColor=white&animation=wave" alt="LinkedIn"/>
+    <img src="https://camo.githubusercontent.com/8d23f9939b6e5b86efb2c1f5fdf0b2f79582c3e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6637386662633f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" />
   </a>
   <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f8a5c2?style=for-the-badge&logo=gmail&logoColor=white&animation=shake" alt="Gmail"/>
+    <img src="https://camo.githubusercontent.com/2455c9e456a871607ff4b0534a01bba4ce1da396/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6638613563323f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" />
   </a>
   <a href="https://SEUSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-ffcce0?style=for-the-badge&logo=vercel&logoColor=white&animation=spin" alt="Portfólio"/>
+    <img src="https://camo.githubusercontent.com/1a8f7b8e9350414c1a5e87d6f23f1c4e1b7d9d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f6c696f2d6666636363653f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" alt="Portfólio" />
   </a>
 </p>
-
 
 ---
 
