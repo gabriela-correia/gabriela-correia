@@ -33,14 +33,13 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 🌷 Adoro aprender, compartilhar e evoluir junto com outras pessoas da área tech.
 
 ---
-
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql&perline=5&theme=light&color=f78fb3" /><br><br>
   <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=4&theme=light&color=f78fb3" />
 </p>
 
 ---
