@@ -34,16 +34,15 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 ---
 ### ✨ Um pouco da minha jornada
 
-<p align="center">
-  <img src="https://singlecolorimage.com/get/ffd6e8/800x10" width="100%" />
-</p>
+<table>
+<tr>
+<td align="center" style="background-color:#ffe6f0; border-radius:10px; padding:15px;">
+<i>“A programação me mostrou que cada erro é apenas uma chance de aprender algo novo.” 💭</i><br><br>
+<b>Gosto de unir criatividade + lógica</b> para desenvolver projetos que sejam bonitos, funcionais e acessíveis.
+</td>
+</tr>
+</table>
 
-> “A programação me mostrou que cada erro é apenas uma chance de aprender algo novo.” 💭  
-> Gosto de unir **criatividade + lógica** para desenvolver projetos que sejam bonitos, funcionais e acessíveis.
-
-<p align="center">
-  <img src="https://singlecolorimage.com/get/ffd6e8/800x10" width="100%" />
-</p>
 
 
 
