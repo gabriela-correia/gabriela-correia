@@ -23,14 +23,25 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 
 
 ---
-
 ### 💡 Sobre mim  
 
-👩‍💻 Formada como **Técnica em Desenvolvimento de Software** e atualmente cursando **Ciência da Computação**.  
+<table align="center" style="background-color:#ffe6f0; border-radius:15px; padding:15px; width:80%; text-align:left;">
+<tr>
+<td>
+
+👩‍💻 **Formada como Técnica em Desenvolvimento de Software** e atualmente cursando **Ciência da Computação**.  
+
 💼 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.  
-🎨 Sou apaixonada por **UI/UX Design** e amo transformar ideias em interfaces bonitas e intuitivas.  
+
+🎨 Apaixonada por **UI/UX Design**, adoro transformar ideias em interfaces bonitas e intuitivas.  
+
 💬 Acredito que a tecnologia é uma forma de expressar criatividade e resolver problemas de forma inteligente.  
-🌷 Adoro aprender, compartilhar e evoluir junto com outras pessoas da área tech.
+
+🌷 Adoro aprender, compartilhar e evoluir junto com outras pessoas da área tech.  
+
+</td>
+</tr>
+</table>
 
 ---
 ###  Linguagens e Tecnologias
