@@ -1,51 +1,61 @@
-# 👩🏻‍💻 Gabriela Correia
-
-**`Iniciando minha jornada como desenvolvedora Front-end`**
-
-Olá! Meu nome é Gabriela Correia, sou de São Paulo e tenho 18 anos. Concluí o ensino médio e atualmente estou cursando o técnico em Desenvolvimento de Sistemas pelo SENAC. Sou iniciante na área de tecnologia, mas já descobri que gosto muito de criar sites e estou sempre em busca de aprender mais sobre programação. Aqui no meu GitHub, compartilho meus primeiros projetos, estudos e o meu desenvolvimento como futura profissional da área.
-
----
-
-### 🚀 Tecnologias que estou aprendendo e usando
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" />
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
 </p>
 
----
 
-### 📊 Linguagens mais usadas nos meus projetos
+<h1 align="center">🌸 Olá, eu sou a Gabriela Correia!</h1>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriela-correia&theme=tokyonight" 
-    alt="Gráfico de linguagens por commits" 
-  />
+💻 Desenvolvedora apaixonada por tecnologia, design e criar soluções que fazem a diferença.  
+Desde o meu primeiro "Hello World", descobri que programar é transformar ideias em realidade.  
+Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para crescer cada vez mais na área tech! 🚀  
 </p>
 
 ---
 
-### 🛠️ Tecnologias mais utilizadas (visual estilizado)
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code<br/><strong>25%</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Figma<br/><strong>20%</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git<br/><strong>20%</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub<br/><strong>15%</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL<br/><strong>10%</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br/>Design<br/><strong>10%</strong></td>
-  </tr>
-</table>
+### 💡 Sobre mim
+- 🎓 Estudante de **Ciência da Computação**  
+- 💼 Em busca de oportunidades para ganhar experiência na área  
+- 🎨 Amo **UI/UX Design** e criar interfaces intuitivas  
+- 🤝 Gosto de trabalhar em equipe e trocar conhecimento  
+- 🌱 Atualmente aprendendo mais sobre **Java**, **MySQL** e **Desenvolvimento Web**
 
 ---
 
-<!-- Se quiser, posso adicionar uma seção de projetos em destaque ou certificados logo abaixo :) -->
+### 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,mysql,git,github,vscode" /><br>
+  <!-- Ferramentas adicionais -->
+  <img src="https://skillicons.dev/icons?i=figma,canva,react,nodejs,php" />
+</p>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true&title_color=f78fb3&icon_color=f8a5c2" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=f78fb3" />
+</p>
+
+---
+
+### ✨ Um pouco da minha jornada
+
+> “A programação me mostrou que cada erro é apenas uma chance de aprender algo novo.” 💭  
+> Gosto de unir **criatividade + lógica** para desenvolver projetos que sejam bonitos, funcionais e acessíveis.
+
+---
+
+### 🌎 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-f78fb3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SEUEMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-f8a5c2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://SEUSITE.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-ffcce0?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">🌷 Feito com 💜 e muita cafeína ☕</p>
