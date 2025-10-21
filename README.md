@@ -57,8 +57,8 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 ###  Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GABRIELACORREIA&show_icons=true&theme=rose_pine&hide_border=true&title_color=f78fb3&icon_color=f8a5c2" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELACORREIA&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=f78fb3" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriela-correia&show_icons=true&theme=rose_pine&hide_border=true&title_color=f78fb3&icon_color=f8a5c2" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-correia&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=f78fb3" />
 </p>
 
 
