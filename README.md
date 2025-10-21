@@ -27,6 +27,25 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
   <img src="https://singlecolorimage.com/get/ffd6e8/800x10" width="100%" />
 </p>
 
+
+### 💡 Sobre mim  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3500&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&lines=Desenvolvedora+apaixonada+por+tecnologia+💻;Criatividade+%2B+Lógica+%3D+minha+combinação+favorita+🌸;Sempre+buscando+evoluir+e+criar+soluções+incríveis+🚀" alt="Typing animation" />
+</p>
+
+<p align="center">
+  👩‍💻 Formada como <b>Técnica em Desenvolvimento de Software</b> e atualmente cursando <b>Ciência da Computação</b>.  
+  <br>💼 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.  
+  <br>🎨 Sou apaixonada por <b>UI/UX Design</b> e amo transformar ideias em interfaces bonitas e intuitivas.  
+  <br>💬 Acredito que a tecnologia é uma forma de expressar criatividade e resolver problemas de forma inteligente.  
+  <br>🌷 Adoro aprender, compartilhar e evoluir junto com outras pessoas da área tech.  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding woman animation" />
+</p>
+
 ### 💡 Sobre mim
 
 - 🎓 Formada como **Técnica em Desenvolvimento de Software** e atualmente cursando **Ciência da Computação**  
