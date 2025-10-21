@@ -28,13 +28,25 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 </p>
 
 ### 💡 Sobre mim
-- 🎓 Estudante de **Ciência da Computação**  
-- 💼 Em busca de oportunidades para ganhar experiência na área  
-- 🎨 Amo **UI/UX Design** e criar interfaces intuitivas  
-- 🤝 Gosto de trabalhar em equipe e trocar conhecimento  
-- 🌱 Atualmente aprendendo mais sobre **Java**, **MySQL** e **Desenvolvimento Web**
+
+- 🎓 Formada como **Técnica em Desenvolvimento de Software** e atualmente cursando **Ciência da Computação**  
+- 💼 Em busca de oportunidades para aplicar meus conhecimentos e ganhar experiência na área  
+- 🎨 Apaixonada por **UI/UX Design** e pela criação de interfaces intuitivas e bonitas  
+- 💡 Acredito que tecnologia é uma forma de transformar ideias em realidade  
+- 🤝 Adoro colaborar, aprender com outras pessoas e trabalhar em equipe  
+- 🌱 No momento, estou me aprofundando em **Java**, **JavaScript**, **MySQL**, **HTML** e **CSS**
 
 ---
+
+### 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql" /><br>
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
 
 ### 🛠️ Linguagens e Tecnologias
 
