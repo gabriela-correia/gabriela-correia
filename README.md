@@ -14,6 +14,19 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 
 ---
 
+### ✨ Um pouco da minha jornada
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/ffd6e8/800x10" width="100%" />
+</p>
+
+> “A programação me mostrou que cada erro é apenas uma chance de aprender algo novo.” 💭  
+> Gosto de unir **criatividade + lógica** para desenvolver projetos que sejam bonitos, funcionais e acessíveis.
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/ffd6e8/800x10" width="100%" />
+</p>
+
 ### 💡 Sobre mim
 - 🎓 Estudante de **Ciência da Computação**  
 - 💼 Em busca de oportunidades para ganhar experiência na área  
