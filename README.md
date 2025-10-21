@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=3000&pause=500&color=F78FB3&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Gabriela+Correia+!+💻" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=3000&pause=500&color=F78FB3&center=true&vCenter=true&width=700&lines=Olá, eu sou a Gabriela Correia!" alt="Typing animation" />
 </p>
+
 
 <p align="center">
 💻 Desenvolvedora apaixonada por tecnologia, design e criar soluções que fazem a diferença.  
