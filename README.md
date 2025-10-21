@@ -10,10 +10,12 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/
+gabriela-correia-b0303231b
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-f78fb3?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:gabi.24022007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-f8a5c2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://SEUSITE.com" target="_blank">
