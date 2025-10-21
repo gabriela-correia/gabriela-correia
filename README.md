@@ -37,9 +37,17 @@ Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para cresce
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql&perline=5&theme=light&color=f78fb3" /><br><br>
+  <img src="https://img.shields.io/badge/Java-f78fb3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f78fb3?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-f78fb3?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-f78fb3?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f78fb3?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
   <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=4&theme=light&color=f78fb3" />
+  <img src="https://img.shields.io/badge/VSCode-f78fb3?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-f78fb3?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-f78fb3?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-f78fb3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
