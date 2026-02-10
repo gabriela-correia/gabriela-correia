@@ -36,16 +36,14 @@
 <progress value="65" max="100"></progress>
 
 
+<h2>💜 Habilidades de Programação</h2>
 
-
-<h2>💜 Minhas habilidades em programação</h2>
-
-<table width="100%" cellspacing="8">
+<table width="100%" cellspacing="10">
   <tr>
     <td width="20%">HTML</td>
     <td width="70%">
-      <div style="border:1px solid #8A2BE2; border-radius:6px;">
-        <div style="width:90%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
+        <div style="width:90%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
       </div>
     </td>
     <td width="10%" style="color:#8A2BE2;">90%</td>
@@ -54,8 +52,8 @@
   <tr>
     <td>CSS</td>
     <td>
-      <div style="border:1px solid #8A2BE2; border-radius:6px;">
-        <div style="width:85%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
+        <div style="width:85%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
       </div>
     </td>
     <td style="color:#8A2BE2;">85%</td>
@@ -64,8 +62,8 @@
   <tr>
     <td>JavaScript</td>
     <td>
-      <div style="border:1px solid #8A2BE2; border-radius:6px;">
-        <div style="width:70%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
+        <div style="width:70%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
       </div>
     </td>
     <td style="color:#8A2BE2;">70%</td>
@@ -74,8 +72,8 @@
   <tr>
     <td>Git & GitHub</td>
     <td>
-      <div style="border:1px solid #8A2BE2; border-radius:6px;">
-        <div style="width:75%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
+        <div style="width:75%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
       </div>
     </td>
     <td style="color:#8A2BE2;">75%</td>
@@ -84,14 +82,10 @@
   <tr>
     <td>Lógica</td>
     <td>
-      <div style="border:1px solid #8A2BE2; border-radius:6px;">
-        <div style="width:80%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
+        <div style="width:80%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
       </div>
     </td>
     <td style="color:#8A2BE2;">80%</td>
   </tr>
 </table>
-
-
-
-
