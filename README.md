@@ -1,71 +1,29 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=3000&pause=500&color=F78FB3&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C%20eu%20sou%20a%20Gabriela%20Correia%21" alt="Typing animation" />
-</p>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriela+Correia;Desenvolvedora+Front-end+em+formação"
+    alt="Typing SVG"
+  />
+</h1>
 
+<br>
 
-<p align="center">
-💻 Desenvolvedora apaixonada por tecnologia, design e criar soluções que fazem a diferença.  
-Desde o meu primeiro "Hello World", descobri que programar é transformar ideias em realidade.  
-Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para crescer cada vez mais na área tech! 🚀  
-</p>
+```js
+// Sobre mim e minha trajetória na programação
 
-<p align="center">
-  <a href="www.linkedin.com/in/
-gabriela-correia-b0303231b
-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f78fb3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gabi.24022007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f8a5c2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://SEUSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-ffcce0?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+const developer = {
+  nome: "Gabriela Correia",
+  area: "Desenvolvimento Front-end",
+  inicioNaProgramacao: 16,
+  formacao: "Análise e Desenvolvimento de Sistemas",
+  interesses: [
+    "Criação de interfaces visuais",
+    "Experiência do usuário",
+    "Soluções práticas e funcionais"
+  ],
+  objetivo: "Desenvolver aplicações que as pessoas realmente usam"
+};
 
+console.log("Aprendendo, evoluindo e transformando ideias em código 🚀");
 
-###  Sobre mim  
-
-<table align="center" style="background-color:#ffe6f0; border-radius:15px; padding:15px; width:80%; text-align:left;">
-<tr>
-<td>
-
-👩‍💻 **Formada como Técnica em Desenvolvimento de Software** e atualmente cursando **Ciência da Computação**.  
-
-💼 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.  
-
-🎨 Apaixonada por **UI/UX Design**, adoro transformar ideias em interfaces bonitas e intuitivas.  
-
-💬 Acredito que a tecnologia é uma forma de expressar criatividade e resolver problemas de forma inteligente.  
-
-🌷 Adoro aprender, compartilhar e evoluir junto com outras pessoas da área tech.  
-
-</td>
-</tr>
-</table>
-
----
-###  Linguagens e Tecnologias
-
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql&perline=5&theme=light&color=f78fb3" /><br><br>
-  <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&perline=4&theme=light&color=f78fb3" />
-</p>
-
-
----
-###  Minhas estatísticas no GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriela-correia&show_icons=true&theme=rose_pine&hide_border=true&title_color=f78fb3&icon_color=f8a5c2" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-correia&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&title_color=f78fb3" />
-</p>
-
-
----
-
-<p align="center">🌷 Feito com 💜 e muita cafeína ☕</p>
 
 
