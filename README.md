@@ -41,3 +41,29 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-75%25-8A2BE2?style=for-the-badge)
 
+
+
+
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=220&lines=LinkedIn" />
+  </a>
+
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=220&lines=Email" />
+  </a>
+</p>
