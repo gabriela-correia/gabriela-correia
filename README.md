@@ -15,13 +15,20 @@
   👩🏻‍💻💜
 </p>
 
+## 💜 Habilidades Técnicas
 
-## 📊 Projetos criados
+HTML  
+![HTML](https://img.shields.io/badge/HTML-90%25-7A3DB8?style=for-the-badge)
 
-```mermaid
-xychart-beta
-    title "Distribuição dos meus projetos"
-    x-axis ["Sites institucionais", "Landing pages", "Projetos acadêmicos", "Projetos pessoais", "Clones / estudos"]
-    y-axis "Quantidade de projetos" 0 --> 20
-    bar [6, 8, 5, 7, 4]
+CSS  
+![CSS](https://img.shields.io/badge/CSS-85%25-7A3DB8?style=for-the-badge)
+
+JavaScript  
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-7A3DB8?style=for-the-badge)
+
+React  
+![React](https://img.shields.io/badge/React-60%25-7A3DB8?style=for-the-badge)
+
+Git & GitHub  
+![Git](https://img.shields.io/badge/Git-70%25-7A3DB8?style=for-the-badge)
 
