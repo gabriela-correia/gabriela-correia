@@ -1,29 +1,25 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+GitHub!;Sou+Gabriela+Correia;Desenvolvedora+Front-end+em+formação"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&center=true&vCenter=true&width=800&lines=<span style='color:#ffffff'>const</span> <span style='color:#ff79c6'>developer</span> <span style='color:#ffffff'>=</span> <span style='color:#50fa7b'>{</span> GabrielaCorreia <span style='color:#50fa7b'>}</span>;"
     alt="Typing SVG"
   />
 </h1>
 
-<br>
-
-```js
-// Sobre mim e minha trajetória na programação
-
-const developer = {
-  nome: "Gabriela Correia",
-  area: "Desenvolvimento Front-end",
-  inicioNaProgramacao: 16,
-  formacao: "Análise e Desenvolvimento de Sistemas",
-  interesses: [
-    "Criação de interfaces visuais",
-    "Experiência do usuário",
-    "Soluções práticas e funcionais"
-  ],
-  objetivo: "Desenvolver aplicações que as pessoas realmente usam"
-};
-
-console.log("Aprendendo, evoluindo e transformando ideias em código 🚀");
 
 
 
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=800&center=true&vCenter=true&width=700&lines=>+Hello%2C+I%27m+Gabriela+Correia;>+Front-end+Developer"
+    alt="Typing SVG"
+  />
+</h1>
+
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=<span style='color:#ffffff'>function</span> <span style='color:#ff79c6'>GabrielaCorreia</span>() <span style='color:#50fa7b'>{</span>"
+    alt="Typing SVG"
+  />
+</h1>
