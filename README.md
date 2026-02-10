@@ -14,3 +14,14 @@
 <p align="center" style="font-size:56px; margin-top:20px;">
   👩🏻‍💻💜
 </p>
+
+
+## 📊 Projetos criados
+
+```mermaid
+xychart-beta
+    title "Distribuição dos meus projetos"
+    x-axis ["Sites institucionais", "Landing pages", "Projetos acadêmicos", "Projetos pessoais", "Clones / estudos"]
+    y-axis "Quantidade de projetos" 0 --> 20
+    bar [6, 8, 5, 7, 4]
+
