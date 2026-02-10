@@ -34,69 +34,10 @@
 
 **Figma / UI — <span style="color:#7A3DB8;">65%</span>**  
 <progress value="65" max="100"></progress>
+## 💜 Habilidades
 
-<h2>💜 Minhas habilidades</h2>
+![HTML](https://img.shields.io/badge/HTML-90%25-8A2BE2?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-85%25-8A2BE2?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-75%25-8A2BE2?style=for-the-badge)
 
-<table>
-<tr>
-<td align="center">
-
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#8A2BE2"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="31"
-    transform="rotate(-90 60 60)" />
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">90%</text>
-</svg>
-
-<b>HTML</b>
-
-</td>
-
-<td align="center">
-
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#8A2BE2"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="47"
-    transform="rotate(-90 60 60)" />
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">85%</text>
-</svg>
-
-<b>CSS</b>
-
-</td>
-
-<td align="center">
-
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#8A2BE2"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="94"
-    transform="rotate(-90 60 60)" />
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">70%</text>
-</svg>
-
-<b>JavaScript</b>
-
-</td>
-
-</tr>
-</table>
-
-    </td>
-    <td style="color:#8A2BE2;">80%</td>
-  </tr>
-</table>
