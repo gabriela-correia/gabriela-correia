@@ -23,3 +23,18 @@
     alt="Typing SVG"
   />
 </h1>
+
+
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700
+    &color=FFFFFF
+    &lines=Hello%2C+world.
+    &color=FF79C6
+    &lines=Gabriela+Correia
+    &color=50FA7B
+    &lines=Front-end+Developer"
+    alt="Typing SVG"
+  />
+</h1>
