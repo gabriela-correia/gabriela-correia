@@ -17,24 +17,20 @@
 
 ## 💜 Habilidades Técnicas
 
-**HTML**  
+**HTML — 90%**  
 <progress value="90" max="100"></progress>
 
-**CSS**  
+**CSS — 85%**  
 <progress value="85" max="100"></progress>
 
-**JavaScript**  
+**JavaScript — 75%**  
 <progress value="75" max="100"></progress>
 
-**React**  
+**React — 60%**  
 <progress value="60" max="100"></progress>
 
-**Git & GitHub**  
+**Git & GitHub — 70%**  
 <progress value="70" max="100"></progress>
 
-**Figma / UI**  
+**Figma / UI — 65%**  
 <progress value="65" max="100"></progress>
-
-![Figma](https://img.shields.io/badge/Figma-65%25-7A3DB8?style=flat-square)
-
-</div>
