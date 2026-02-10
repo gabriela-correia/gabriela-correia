@@ -38,21 +38,60 @@
 
 
 
+<h2>💜 Minhas habilidades em programação</h2>
 
-## 💜 Minhas habilidades em programação
+<table width="100%" cellspacing="8">
+  <tr>
+    <td width="20%">HTML</td>
+    <td width="70%">
+      <div style="border:1px solid #8A2BE2; border-radius:6px;">
+        <div style="width:90%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      </div>
+    </td>
+    <td width="10%" style="color:#8A2BE2;">90%</td>
+  </tr>
 
-**HTML**
-![HTML](https://progress-bar.dev/90/?scale=100&title=HTML&width=500&color=8A2BE2)
+  <tr>
+    <td>CSS</td>
+    <td>
+      <div style="border:1px solid #8A2BE2; border-radius:6px;">
+        <div style="width:85%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      </div>
+    </td>
+    <td style="color:#8A2BE2;">85%</td>
+  </tr>
 
-**CSS**
-![CSS](https://progress-bar.dev/85/?scale=100&title=CSS&width=500&color=8A2BE2)
+  <tr>
+    <td>JavaScript</td>
+    <td>
+      <div style="border:1px solid #8A2BE2; border-radius:6px;">
+        <div style="width:70%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      </div>
+    </td>
+    <td style="color:#8A2BE2;">70%</td>
+  </tr>
 
-**JavaScript**
-![JavaScript](https://progress-bar.dev/70/?scale=100&title=JavaScript&width=500&color=8A2BE2)
+  <tr>
+    <td>Git & GitHub</td>
+    <td>
+      <div style="border:1px solid #8A2BE2; border-radius:6px;">
+        <div style="width:75%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      </div>
+    </td>
+    <td style="color:#8A2BE2;">75%</td>
+  </tr>
 
-**Git & GitHub**
-![Git](https://progress-bar.dev/75/?scale=100&title=Git%20%26%20GitHub&width=500&color=8A2BE2)
+  <tr>
+    <td>Lógica</td>
+    <td>
+      <div style="border:1px solid #8A2BE2; border-radius:6px;">
+        <div style="width:80%; background:#8A2BE2; height:10px; border-radius:6px;"></div>
+      </div>
+    </td>
+    <td style="color:#8A2BE2;">80%</td>
+  </tr>
+</table>
 
-**Lógica de Programação**
-![Logica](https://progress-bar.dev/80/?scale=100&title=Logica%20de%20Programacao&width=500&color=8A2BE2)
+
+
 
