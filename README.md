@@ -17,7 +17,7 @@
 
 <p align="center" style="margin-top:24px;">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
     alt="Programadora animada"
     width="180"
   />
