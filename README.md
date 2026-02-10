@@ -17,39 +17,23 @@
 
 ## 💜 Habilidades Técnicas
 
-<div style="max-width: 600px;">
+**HTML**  
+<progress value="90" max="100"></progress>
 
-<p style="margin: 6px 0; color:#7A3DB8; font-size:14px;">HTML</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px; width:100%;">
-  <div style="height:100%; width:90%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
+**CSS**  
+<progress value="85" max="100"></progress>
 
-<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">CSS</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
-  <div style="height:100%; width:85%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
+**JavaScript**  
+<progress value="75" max="100"></progress>
 
-<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">JavaScript</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
-  <div style="height:100%; width:75%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
+**React**  
+<progress value="60" max="100"></progress>
 
-<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">React</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
-  <div style="height:100%; width:60%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
+**Git & GitHub**  
+<progress value="70" max="100"></progress>
 
-<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">Git & GitHub</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
-  <div style="height:100%; width:70%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
-
-<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">Figma / UI</p>
-<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
-  <div style="height:100%; width:65%; background:#7A3DB8; border-radius:6px;"></div>
-</div>
-
-</div>
+**Figma / UI**  
+<progress value="65" max="100"></progress>
 
 ![Figma](https://img.shields.io/badge/Figma-65%25-7A3DB8?style=flat-square)
 
