@@ -17,7 +17,7 @@
 
 ## 💜 Habilidades Técnicas
 
-**HTML — <span style="color:#7A3DB8;">90%</span>**  
+**HTML —<span style="color:#9B6DFF;">75%</span>**  
 <progress value="90" max="100"></progress>
 
 **CSS — <span style="color:#7A3DB8;">85%</span>**  
