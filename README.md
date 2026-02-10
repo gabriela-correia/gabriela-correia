@@ -17,20 +17,20 @@
 
 ## 💜 Habilidades Técnicas
 
-**HTML — 90%**  
+**HTML — <span style="color:#7A3DB8;">90%</span>**  
 <progress value="90" max="100"></progress>
 
-**CSS — 85%**  
+**CSS — <span style="color:#7A3DB8;">85%</span>**  
 <progress value="85" max="100"></progress>
 
-**JavaScript — 75%**  
+**JavaScript — <span style="color:#7A3DB8;">75%</span>**  
 <progress value="75" max="100"></progress>
 
-**React — 60%**  
+**React — <span style="color:#7A3DB8;">60%</span>**  
 <progress value="60" max="100"></progress>
 
-**Git & GitHub — 70%**  
+**Git & GitHub — <span style="color:#7A3DB8;">70%</span>**  
 <progress value="70" max="100"></progress>
 
-**Figma / UI — 65%**  
+**Figma / UI — <span style="color:#7A3DB8;">65%</span>**  
 <progress value="65" max="100"></progress>
