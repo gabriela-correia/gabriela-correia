@@ -35,56 +35,67 @@
 **Figma / UI — <span style="color:#7A3DB8;">65%</span>**  
 <progress value="65" max="100"></progress>
 
+<h2>💜 Minhas habilidades</h2>
 
-<h2>💜 Habilidades de Programação</h2>
+<table>
+<tr>
+<td align="center">
 
-<table width="100%" cellspacing="10">
-  <tr>
-    <td width="20%">HTML</td>
-    <td width="70%">
-      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
-        <div style="width:90%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
-      </div>
-    </td>
-    <td width="10%" style="color:#8A2BE2;">90%</td>
-  </tr>
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50"
+    stroke="#8A2BE2"
+    stroke-width="10"
+    fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="31"
+    transform="rotate(-90 60 60)" />
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">90%</text>
+</svg>
 
-  <tr>
-    <td>CSS</td>
-    <td>
-      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
-        <div style="width:85%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
-      </div>
-    </td>
-    <td style="color:#8A2BE2;">85%</td>
-  </tr>
+<b>HTML</b>
 
-  <tr>
-    <td>JavaScript</td>
-    <td>
-      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
-        <div style="width:70%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
-      </div>
-    </td>
-    <td style="color:#8A2BE2;">70%</td>
-  </tr>
+</td>
 
-  <tr>
-    <td>Git & GitHub</td>
-    <td>
-      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
-        <div style="width:75%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
-      </div>
-    </td>
-    <td style="color:#8A2BE2;">75%</td>
-  </tr>
+<td align="center">
 
-  <tr>
-    <td>Lógica</td>
-    <td>
-      <div style="height:4px; background:#e6d9f5; border-radius:4px;">
-        <div style="width:80%; height:4px; background:#8A2BE2; border-radius:4px;"></div>
-      </div>
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50"
+    stroke="#8A2BE2"
+    stroke-width="10"
+    fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="47"
+    transform="rotate(-90 60 60)" />
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">85%</text>
+</svg>
+
+<b>CSS</b>
+
+</td>
+
+<td align="center">
+
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#e6d9f5" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50"
+    stroke="#8A2BE2"
+    stroke-width="10"
+    fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="94"
+    transform="rotate(-90 60 60)" />
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#8A2BE2" font-size="16">70%</text>
+</svg>
+
+<b>JavaScript</b>
+
+</td>
+
+</tr>
+</table>
+
     </td>
     <td style="color:#8A2BE2;">80%</td>
   </tr>
