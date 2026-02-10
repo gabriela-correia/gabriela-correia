@@ -124,3 +124,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=240&lines=✉️+Email" />
   </a>
 </p>
+
+
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=240&lines=🔗+LinkedIn" />
+  </a>
+
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=240&lines=✉️+Email" />
+  </a>
+</p>
+
