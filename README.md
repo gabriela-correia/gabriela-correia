@@ -15,20 +15,26 @@
   👩🏻‍💻💜
 </p>
 
+<div align="center">
+
 ## 💜 Habilidades Técnicas
 
 HTML  
-![HTML](https://img.shields.io/badge/HTML-90%25-7A3DB8?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-90%25-7A3DB8?style=flat-square)
 
 CSS  
-![CSS](https://img.shields.io/badge/CSS-85%25-7A3DB8?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-85%25-7A3DB8?style=flat-square)
 
 JavaScript  
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-7A3DB8?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-7A3DB8?style=flat-square)
 
 React  
-![React](https://img.shields.io/badge/React-60%25-7A3DB8?style=for-the-badge)
+![React](https://img.shields.io/badge/React-60%25-7A3DB8?style=flat-square)
 
 Git & GitHub  
-![Git](https://img.shields.io/badge/Git-70%25-7A3DB8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-70%25-7A3DB8?style=flat-square)
 
+Figma / UI  
+![Figma](https://img.shields.io/badge/Figma-65%25-7A3DB8?style=flat-square)
+
+</div>
