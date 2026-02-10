@@ -34,3 +34,25 @@
 
 **Figma / UI — <span style="color:#7A3DB8;">65%</span>**  
 <progress value="65" max="100"></progress>
+
+
+
+
+
+## 💜 Minhas habilidades em programação
+
+**HTML**
+![HTML](https://progress-bar.dev/90/?scale=100&title=HTML&width=500&color=8A2BE2)
+
+**CSS**
+![CSS](https://progress-bar.dev/85/?scale=100&title=CSS&width=500&color=8A2BE2)
+
+**JavaScript**
+![JavaScript](https://progress-bar.dev/70/?scale=100&title=JavaScript&width=500&color=8A2BE2)
+
+**Git & GitHub**
+![Git](https://progress-bar.dev/75/?scale=100&title=Git%20%26%20GitHub&width=500&color=8A2BE2)
+
+**Lógica de Programação**
+![Logica](https://progress-bar.dev/80/?scale=100&title=Logica%20de%20Programacao&width=500&color=8A2BE2)
+
