@@ -15,26 +15,42 @@
   👩🏻‍💻💜
 </p>
 
-<div align="center">
-
 ## 💜 Habilidades Técnicas
 
-HTML  
-![HTML](https://img.shields.io/badge/HTML-90%25-7A3DB8?style=flat-square)
+<div style="max-width: 600px;">
 
-CSS  
-![CSS](https://img.shields.io/badge/CSS-85%25-7A3DB8?style=flat-square)
+<p style="margin: 6px 0; color:#7A3DB8; font-size:14px;">HTML</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px; width:100%;">
+  <div style="height:100%; width:90%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
 
-JavaScript  
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-7A3DB8?style=flat-square)
+<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">CSS</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
+  <div style="height:100%; width:85%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
 
-React  
-![React](https://img.shields.io/badge/React-60%25-7A3DB8?style=flat-square)
+<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">JavaScript</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
+  <div style="height:100%; width:75%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
 
-Git & GitHub  
-![Git](https://img.shields.io/badge/Git-70%25-7A3DB8?style=flat-square)
+<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">React</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
+  <div style="height:100%; width:60%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
 
-Figma / UI  
+<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">Git & GitHub</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
+  <div style="height:100%; width:70%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
+
+<p style="margin: 10px 0 6px; color:#7A3DB8; font-size:14px;">Figma / UI</p>
+<div style="border:1.5px solid #7A3DB8; border-radius:8px; height:8px;">
+  <div style="height:100%; width:65%; background:#7A3DB8; border-radius:6px;"></div>
+</div>
+
+</div>
+
 ![Figma](https://img.shields.io/badge/Figma-65%25-7A3DB8?style=flat-square)
 
 </div>
