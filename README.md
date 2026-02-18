@@ -21,9 +21,6 @@
          width="45"
          alt="Email"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="45"
