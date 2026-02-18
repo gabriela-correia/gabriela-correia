@@ -17,16 +17,16 @@
 ---
 <p align="center">
   <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png"
-         width="40"
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         width="45"
          alt="Email"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40"
+         width="45"
          alt="LinkedIn"/>
   </a>
 </p>
