@@ -93,27 +93,37 @@ Formação Técnica
 
 
 ---
+
 <h2 align="center">
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
 
 <br><br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="260">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/><br><br>
-      <a href="#">🔗 Ver Projeto</a>
-    </td>
+<div align="center">
 
-    <td align="center" width="260">
-      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/><br><br>
-      <a href="#">🔗 Ver Projeto</a>
-    </td>
+  <div style="display:inline-block; text-align:center; margin: 0 30px;">
+    <a href="#">
+      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/>
+    </a>
+    <br><br>
+    <a href="#"><strong>🔗 Ver Projeto</strong></a>
+  </div>
 
-    <td align="center" width="260">
-      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/><br><br>
-      <a href="#">🔗 Ver Projeto</a>
-    </td>
-  </tr>
-</table>
+  <div style="display:inline-block; text-align:center; margin: 0 30px;">
+    <a href="#">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/>
+    </a>
+    <br><br>
+    <a href="#"><strong>🔗 Ver Projeto</strong></a>
+  </div>
+
+  <div style="display:inline-block; text-align:center; margin: 0 30px;">
+    <a href="#">
+      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/>
+    </a>
+    <br><br>
+    <a href="#"><strong>🔗 Ver Projeto</strong></a>
+  </div>
+
+</div>
