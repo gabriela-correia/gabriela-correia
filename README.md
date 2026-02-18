@@ -93,6 +93,7 @@ Formação Técnica
 
 
 ---
+
 <h2 align="center">
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
@@ -101,58 +102,24 @@ Formação Técnica
 
 <!-- IMAGENS -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230" style="margin:0 25px;"/>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230" style="margin:0 25px;"/>
-  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230" style="margin:0 25px;"/>
-</p>
-
-<br>
-
-<!-- TITULOS -->
-<p align="center">
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    <strong>Sistema de Login Responsivo</strong>
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    <strong>Landing Page Moderna</strong>
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    <strong>Dashboard Administrativo</strong>
-  </span>
-</p>
-
-<br>
-
-<!-- TECNOLOGIAS -->
-<p align="center">
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    HTML, CSS e JavaScript
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    HTML e CSS
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 25px;">
-    React e JavaScript
-  </span>
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230" style="margin:0 40px;"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230" style="margin:0 40px;"/>
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230" style="margin:0 40px;"/>
 </p>
 
 <br>
 
 <!-- LINKS -->
 <p align="center">
-  <span style="display:inline-block; width:230px; margin:0 25px;">
+  <span style="display:inline-block; width:230px; margin:0 40px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
 
-  <span style="display:inline-block; width:230px; margin:0 25px;">
+  <span style="display:inline-block; width:230px; margin:0 40px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
 
-  <span style="display:inline-block; width:230px; margin:0 25px;">
+  <span style="display:inline-block; width:230px; margin:0 40px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
 </p>
