@@ -83,14 +83,13 @@ Formação Técnica
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085"
-     width="300"/>
+     width="280"/>
 
 <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c"
-     width="300"/>
+     width="280"/>
 
 </div>
 
