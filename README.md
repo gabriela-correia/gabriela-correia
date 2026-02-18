@@ -85,8 +85,9 @@ Formação Técnica
 ---
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="280"/>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="280"/>
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240" style="margin-right:10px;"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240" style="margin-right:10px;"/>
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
 </p>
 
 
