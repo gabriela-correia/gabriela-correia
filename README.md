@@ -93,39 +93,43 @@ Formação Técnica
 
 
 ---
+
 <h2 align="center">
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
 
 <br>
 
+<!-- IMAGENS -->
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240"/>
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
+</p>
 
-  <!-- Projeto 1 -->
-  <span style="display:inline-block; width:260px; text-align:center; vertical-align:top; margin-right:15px;">
-    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240"/>
-    <br><br>
-    <strong>Sistema de Login Responsivo</strong><br>
-    HTML, CSS e JavaScript<br><br>
+<!-- TITULOS -->
+<p align="center">
+  <strong style="display:inline-block; width:240px;">Sistema de Login Responsivo</strong>
+  <strong style="display:inline-block; width:240px;">Landing Page Moderna</strong>
+  <strong style="display:inline-block; width:240px;">Dashboard Administrativo</strong>
+</p>
+
+<!-- TECNOLOGIAS -->
+<p align="center">
+  <span style="display:inline-block; width:240px;">HTML, CSS e JavaScript</span>
+  <span style="display:inline-block; width:240px;">HTML e CSS</span>
+  <span style="display:inline-block; width:240px;">React e JavaScript</span>
+</p>
+
+<!-- LINKS -->
+<p align="center">
+  <span style="display:inline-block; width:240px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
-
-  <!-- Projeto 2 -->
-  <span style="display:inline-block; width:260px; text-align:center; vertical-align:top; margin-right:15px;">
-    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240"/>
-    <br><br>
-    <strong>Landing Page Moderna</strong><br>
-    HTML e CSS<br><br>
+  <span style="display:inline-block; width:240px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
-
-  <!-- Projeto 3 -->
-  <span style="display:inline-block; width:260px; text-align:center; vertical-align:top;">
-    <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
-    <br><br>
-    <strong>Dashboard Administrativo</strong><br>
-    React e JavaScript<br><br>
+  <span style="display:inline-block; width:240px;">
     <a href="#">🔗 Ver Projeto</a>
   </span>
-
 </p>
