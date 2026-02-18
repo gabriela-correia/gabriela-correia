@@ -51,7 +51,6 @@ Formação Técnica
 </div>
 
 ---
-
 <p align="center">
 Tecnologias que aplico no desenvolvimento de projetos modernos, refletindo minha evolução constante como desenvolvedora.
 </p>
