@@ -52,7 +52,9 @@ Formação Técnica
 
 ---
 <p align="center">
-Tecnologias que aplico no desenvolvimento de projetos modernos, refletindo minha evolução constante como desenvolvedora.
+  <strong style="font-size:20px;">
+    Tecnologias que aplico no desenvolvimento de projetos modernos, refletindo minha evolução constante como desenvolvedora.
+  </strong>
 </p>
 
 
