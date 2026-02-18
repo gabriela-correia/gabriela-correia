@@ -28,3 +28,14 @@
          alt="Email"/>
   </a>
 </p>
+
+---
+
+## Formação Acadêmica
+
+🎓 Análise e Desenvolvimento de Sistemas  
+Ensino Superior – Em andamento  
+
+🎓 Técnico em Informática  
+Formação Técnica concluída
+
