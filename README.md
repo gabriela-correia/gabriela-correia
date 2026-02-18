@@ -81,3 +81,8 @@ Formação Técnica
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 
 </div>
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
