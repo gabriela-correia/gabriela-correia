@@ -49,10 +49,13 @@ Ensino Superior – Em andamento
 Formação Técnica  
 
 </div>
+
 ---
+
 <p align="center">
-Minhas habilidades incluem as seguintes tecnologias:
+Tecnologias que aplico no desenvolvimento de projetos modernos, refletindo minha evolução constante como desenvolvedora.
 </p>
+
 
 <br>
 
