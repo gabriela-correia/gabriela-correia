@@ -93,29 +93,27 @@ Formação Técnica
 
 
 ---
-
 <h2 align="center">
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
 
 <br><br>
 
-<!-- IMAGENS -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/><br><br>
+      <a href="#">🔗 Ver Projeto</a>
+    </td>
 
-<br>
+    <td align="center" width="260">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/><br><br>
+      <a href="#">🔗 Ver Projeto</a>
+    </td>
 
-<!-- LINKS -->
-<p align="center">
-  <a href="#">🔗 Ver Projeto</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">🔗 Ver Projeto</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">🔗 Ver Projeto</a>
-</p>
+    <td align="center" width="260">
+      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/><br><br>
+      <a href="#">🔗 Ver Projeto</a>
+    </td>
+  </tr>
+</table>
