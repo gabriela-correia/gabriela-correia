@@ -30,9 +30,13 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=320&lines=Formação+Acadêmica" />
-</p>
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=500&color=8A2BE2&lines=Forma%C3%A7%C3%A3o+Acad%C3%AAmica"
+    alt="Typing SVG"
+  />
+</h2>
+
 
 <div align="center">
 
