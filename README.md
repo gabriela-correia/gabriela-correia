@@ -102,24 +102,20 @@ Formação Técnica
 
 <!-- IMAGENS -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230" style="margin:0 40px;"/>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230" style="margin:0 40px;"/>
-  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230" style="margin:0 40px;"/>
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/>
 </p>
 
 <br>
 
 <!-- LINKS -->
 <p align="center">
-  <span style="display:inline-block; width:230px; margin:0 40px;">
-    <a href="#">🔗 Ver Projeto</a>
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 40px;">
-    <a href="#">🔗 Ver Projeto</a>
-  </span>
-
-  <span style="display:inline-block; width:230px; margin:0 40px;">
-    <a href="#">🔗 Ver Projeto</a>
-  </span>
+  <a href="#">🔗 Ver Projeto</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">🔗 Ver Projeto</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">🔗 Ver Projeto</a>
 </p>
