@@ -84,16 +84,22 @@ Formação Técnica
 
 ---
 
-<h3 align="center">Sistema de Login Responsivo</h3>
+<div align="center">
+
+<img src="LINK-DA-IMAGEM" width="500"/>
+
+<br><br>
+
+<strong>Sistema de Login Responsivo</strong><br>
+HTML, CSS e JavaScript<br><br>
+
+<a href="LINK">Ver Projeto</a>
+
+</div>
+
 
 <p align="center">
-  <img src="https://github.com/seuusuario/repositorio/blob/main/imagem.png?raw=true" width="600"/>
+  <img src="IMG1" width="300"/>
+  <img src="IMG2" width="300"/>
 </p>
 
-<p align="center">
-Interface moderna com validação em JavaScript.
-</p>
-
-<p align="center">
-<a href="LINK-DO-PROJETO">🔗 Ver Projeto</a>
-</p>
