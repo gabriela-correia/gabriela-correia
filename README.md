@@ -86,20 +86,11 @@ Formação Técnica
 
 <div align="center">
 
-<img src="LINK-DA-IMAGEM" width="500"/>
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+     width="300"/>
 
-<br><br>
-
-<strong>Sistema de Login Responsivo</strong><br>
-HTML, CSS e JavaScript<br><br>
-
-<a href="LINK">Ver Projeto</a>
+<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+     width="300"/>
 
 </div>
-
-
-<p align="center">
-  <img src="IMG1" width="300"/>
-  <img src="IMG2" width="300"/>
-</p>
 
