@@ -15,19 +15,18 @@
   👩🏻‍💻💜
 </p>
 ---
-<h2 align="left">Contato</h2>
-
-<p align="left">
+<p align="center">
   <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-         width="35" 
-         alt="Gmail"
-         style="margin-right: 15px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png"
+         width="40"
+         alt="Email"/>
   </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="35" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40"
          alt="LinkedIn"/>
   </a>
 </p>
