@@ -20,13 +20,14 @@
 <p align="left">
   <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-         width="30" 
-         alt="Gmail"/>
+         width="35" 
+         alt="Gmail"
+         style="margin-right: 15px;"/>
   </a>
 
   <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="30" 
+         width="35" 
          alt="LinkedIn"/>
   </a>
 </p>
