@@ -31,13 +31,17 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=300&lines=Formação+Acadêmica" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=320&lines=Formação+Acadêmica" />
 </p>
 
-<p align="center">
+<div align="center">
+
 🎓 <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-Ensino Superior – Em andamento<br><br>
+Ensino Superior – Em andamento  
+
+<br><br>
 
 🎓 <strong>Técnico em Informática</strong><br>
-Formação Técnica
-</p>
+Formação Técnica  
+
+</div>
