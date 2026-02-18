@@ -40,6 +40,43 @@
 
 <div align="center">
 
+---
+
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=400&color=8A2BE2&lines=Minhas+Habilidades"
+    alt="Typing SVG"
+  />
+</h2>
+
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> 
+<strong>HTML</strong> – <span style="color:#8A2BE2;">90%</span>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> 
+<strong>CSS</strong> – <span style="color:#8A2BE2;">85%</span>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> 
+<strong>JavaScript</strong> – <span style="color:#8A2BE2;">75%</span>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> 
+<strong>React</strong> – <span style="color:#8A2BE2;">65%</span>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> 
+<strong>Git</strong> – <span style="color:#8A2BE2;">70%</span>
+
+</div>
+
 🎓 <strong>Análise e Desenvolvimento de Sistemas</strong><br>
 Ensino Superior – Em andamento  
 
