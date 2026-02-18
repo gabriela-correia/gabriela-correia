@@ -82,7 +82,18 @@ Formação Técnica
 
 </div>
 
+---
 
+<h3 align="center">Sistema de Login Responsivo</h3>
 
+<p align="center">
+  <img src="https://github.com/seuusuario/repositorio/blob/main/imagem.png?raw=true" width="600"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
+<p align="center">
+Interface moderna com validação em JavaScript.
+</p>
+
+<p align="center">
+<a href="LINK-DO-PROJETO">🔗 Ver Projeto</a>
+</p>
