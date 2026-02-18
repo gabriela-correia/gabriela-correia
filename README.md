@@ -98,26 +98,22 @@ Formação Técnica
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
 
-<br><br>
+<br>
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="220"/><br><br>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="200"><br><br>
       <a href="#"><strong>🔗 Ver Projeto</strong></a>
     </td>
 
-    <td width="40"></td> <!-- Espaçamento -->
-
-    <td align="center" width="250">
-      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="220"/><br><br>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="200"><br><br>
       <a href="#"><strong>🔗 Ver Projeto</strong></a>
     </td>
 
-    <td width="40"></td> <!-- Espaçamento -->
-
-    <td align="center" width="250">
-      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="220"/><br><br>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="200"><br><br>
       <a href="#"><strong>🔗 Ver Projeto</strong></a>
     </td>
   </tr>
