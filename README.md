@@ -51,6 +51,7 @@ Formação Técnica
 </div>
 
 ---
+
 <p align="center">
   <strong style="font-size:20px;">
     Tecnologias que aplico no desenvolvimento de projetos modernos, refletindo minha evolução constante como desenvolvedora.
@@ -84,37 +85,15 @@ Formação Técnica
 
 ---
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240" style="margin-right:10px;"/>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240" style="margin-right:10px;"/>
-  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
-</p>
-
-
-
----
-
 <h2 align="center">
   <strong style="color:#111111;">Meus Projetos</strong>
 </h2>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="200"><br><br>
-      <a href="#"><strong>🔗 Ver Projeto</strong></a>
-    </td>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240" style="margin-right:10px;"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240" style="margin-right:10px;"/>
+  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
+</p>
 
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="200"><br><br>
-      <a href="#"><strong>🔗 Ver Projeto</strong></a>
-    </td>
-
-    <td align="center">
-      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="200"><br><br>
-      <a href="#"><strong>🔗 Ver Projeto</strong></a>
-    </td>
-  </tr>
-</table>
