@@ -16,13 +16,13 @@
 </p>
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriela-correia-b0303231b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="45"
          style="margin-right: 10px;"
          alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:gabi.24022007@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          width="45"
          alt="Email"/>
