@@ -100,24 +100,25 @@ Formação Técnica
 
 <br><br>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="220"/><br><br>
+      <a href="#"><strong>🔗 Ver Projeto</strong></a>
+    </td>
 
-  <div style="display:inline-block; text-align:center; margin: 0 15px;">
-    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="230"/>
-    <br><br>
-    <a href="#"><strong>🔗 Ver Projeto</strong></a>
-  </div>
+    <td width="40"></td> <!-- Espaçamento -->
 
-  <div style="display:inline-block; text-align:center; margin: 0 15px;">
-    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="230"/>
-    <br><br>
-    <a href="#"><strong>🔗 Ver Projeto</strong></a>
-  </div>
+    <td align="center" width="250">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="220"/><br><br>
+      <a href="#"><strong>🔗 Ver Projeto</strong></a>
+    </td>
 
-  <div style="display:inline-block; text-align:center; margin: 0 15px;">
-    <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="230"/>
-    <br><br>
-    <a href="#"><strong>🔗 Ver Projeto</strong></a>
-  </div>
+    <td width="40"></td> <!-- Espaçamento -->
 
-</div>
+    <td align="center" width="250">
+      <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="220"/><br><br>
+      <a href="#"><strong>🔗 Ver Projeto</strong></a>
+    </td>
+  </tr>
+</table>
