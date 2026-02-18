@@ -31,11 +31,13 @@
 
 ---
 
-## Formação Acadêmica
+<h2 align="center">Formação Acadêmica</h2>
 
-🎓 Análise e Desenvolvimento de Sistemas  
-Ensino Superior – Em andamento  
+<p align="center">
+🎓 <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+Ensino Superior – Em andamento<br><br>
 
-🎓 Técnico em Informática  
-Formação Técnica concluída
+🎓 <strong>Técnico em Informática</strong><br>
+Formação Técnica
+</p>
 
