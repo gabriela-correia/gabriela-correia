@@ -3,9 +3,7 @@
 <p align="center" style="color:#000000; font-size:18px; line-height:1.7; max-width:720px; margin:auto;">
 
   
-<p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
-</p>
+
 
 Me chamo <strong>Gabriela Correia</strong>, tenho 19 anos e sou de São Paulo. Concluí o ensino médio com o curso técnico em <strong>Desenvolvimento de Sistemas</strong>, formação que marcou o início da minha trajetória na área de tecnologia. Atualmente, estou cursando a faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>. Sou apaixonada por programação e busco constantemente evoluir minhas habilidades, criando projetos e interfaces funcionais, bem estruturadas e pensadas para o usuário. Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programação, e foi através dessa formação que tive meu primeiro contato com a área e descobri o quanto me identificava com tecnologia, decidindo seguir esse caminho profissionalmente.</p>
 
