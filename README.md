@@ -15,6 +15,7 @@ Busco constantemente evoluir minhas habilidades, criando projetos e interfaces f
 Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programação. Foi através dessa formação que tive meu primeiro contato com a área e descobri o quanto me identificava com tecnologia, decidindo seguir esse caminho profissionalmente.
 </p>
 
+<p align="center" style="font-size:56px; margin-top:20px;">
   👩🏻‍💻💜
 </p>
 
