@@ -1,4 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=8A2BE2&lines=Hello%2C+world!;Me+chamo+Gabriela;Desenvolvedora+Front-end" alt="Typing SVG" /> </h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1200&center=true&vCenter=true&width=900&color=8A2BE2&lines=Hello%2C+world!;Me+chamo+Gabriela;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" 
+    alt="Typing SVG" 
+  />
+</p>
 
 <p align="center" style="color:#000000; font-size:18px; line-height:1.7; max-width:720px; margin:auto;"> <br>
 
