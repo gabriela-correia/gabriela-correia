@@ -18,11 +18,3 @@ Me chamo <strong>Gabriela Correia</strong>, tenho 19 anos e sou de São Paulo. C
     alt="Typing SVG" 
   />
 </p>
-
-<p align="center">
-Me chamo <strong>Gabriela Correia</strong>, tenho 19 anos e sou de São Paulo.<br>
-Concluí o ensino médio com o curso técnico em <strong>Desenvolvimento de Sistemas</strong>, formação que marcou o início da minha trajetória na área de tecnologia.<br>
-Atualmente, estou cursando a faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br><br>
-Sou apaixonada por programação e busco constantemente evoluir minhas habilidades, criando projetos e interfaces funcionais, bem estruturadas e pensadas para o usuário.<br>
-Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programação, e foi através dessa formação que tive meu primeiro contato com a área e descobri o quanto me identificava com tecnologia, decidindo seguir esse caminho profissionalmente.
-</p>
