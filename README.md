@@ -35,3 +35,4 @@ Aqui estão algumas das habilidades que venho desenvolvendo e aplicando em meus 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
 </p>
+
