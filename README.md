@@ -11,10 +11,11 @@ Me chamo <strong>Gabriela Correia</strong>, tenho 19 anos e sou de São Paulo. C
   👩🏻‍💻💜
 </p>
 
+---
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=8A2BE2&lines=Hello%2C+world!;Me+chamo+Gabriela;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=8A2BE2&lines=Hello%2C+world!;Me+chamo+Gabriela;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" 
     alt="Typing SVG" 
   />
 </p>
