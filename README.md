@@ -16,10 +16,12 @@ Atualmente tenho 19 anos e curso a faculdade de Análise e Desenvolvimento de Si
 </p>
 ---
 
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" width="240" style="margin-right:10px;"/>
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="240" style="margin-right:10px;"/>
-  <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231" width="240"/>
+  Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
+---
+
+Me chamo **Gabriela Correia**, tenho 19 anos e sou de São Paulo. Concluí o ensino médio com o curso técnico em **Desenvolvimento de Sistemas**, formação que marcou o início da minha trajetória na área de tecnologia. Atualmente, estou cursando a faculdade de **Análise e Desenvolvimento de Sistemas**.
+
+Sou apaixonada por programação e busco constantemente evoluir minhas habilidades, criando projetos e interfaces funcionais, bem estruturadas e pensadas para o usuário. Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programação, e foi através dessa formação que tive meu primeiro contato com a área e descobri o quanto me identificava com tecnologia, decidindo seguir esse caminho profissionalmente.
