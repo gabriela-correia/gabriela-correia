@@ -21,7 +21,9 @@ Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programaçã
 
 ---
 
-## 💻 Minhas Habilidades
+<p align="center" style="color:#000000; font-size:18px;">
+Aqui estão algumas das habilidades que venho desenvolvendo e aplicando em meus projetos.
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
