@@ -21,7 +21,7 @@ Antes de iniciar o curso técnico, eu não tinha conhecimento sobre programaçã
 
 ---
 
-<p align="center" style="color:#000000; font-size:18px;">
+<p align="center" style="color:#111111; font-size:18px;">
 Aqui estão algumas das habilidades que venho desenvolvendo e aplicando em meus projetos.
 </p>
 
